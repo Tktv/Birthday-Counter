@@ -1,0 +1,25 @@
+
+body {
+    background-color: rgba(238, 193, 245, 0.722);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+  }
+
+.Birthday {
+    font-family: 'Silkscreen', cursive;
+    height: 120px;
+    margin-top: 77px;
+  }
+
+  .Birthday h1{
+    font-size: 100px;
+  }
+
+  #time-left{
+    font-family: 'Sacramento', cursive;
+  }
+
+  .A{
+    margin-top: 250px;
+  }
